@@ -3,7 +3,6 @@ import { getDatabase } from "firebase/database";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDi3xZ3-8591HTDoi7IhB-SpreAxU967ok",
     authDomain: "tasty-recipe-timedoor.firebaseapp.com",
     databaseURL: "https://tasty-recipe-timedoor-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "tasty-recipe-timedoor",
